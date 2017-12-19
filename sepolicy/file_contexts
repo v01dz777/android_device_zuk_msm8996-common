@@ -38,3 +38,6 @@
 # Misc files on /vendor
 /vendor/usr/idc(/.*)?                                           u:object_r:idc_file:s0
 /vendor/usr/keylayout(/.*)?                                     u:object_r:keylayout_file:s0
+
+# phh-su
+/system/bin/su                  			 	u:object_r:su_exec:s0
