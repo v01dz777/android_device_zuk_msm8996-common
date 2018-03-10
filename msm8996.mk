@@ -264,7 +264,6 @@ PRODUCT_PACKAGES += \
     init.qcom.power.rc \
     init.qcom.rc \
     init.qcom.usb.rc \
-    init.qcom.bt.sh \
     ueventd.qcom.rc
 
 # RCS
