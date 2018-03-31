@@ -335,7 +335,8 @@ PRODUCT_PACKAGES += \
 
 # SuperUser
 PRODUCT_PACKAGES += \
-    phh-su
+    phh-su \
+    SuperSu
 
 # Telephony
 PRODUCT_PACKAGES += \
